@@ -1,7 +1,61 @@
 # myWork
 
+- [vscode](#vscode)
 - [移动端配适](#移动端配适)
 - [初始化样式](#初始化样式)
+
+## vscode
+
+vscode插件
+
+```js
+An Old Hope Theme 主题
+HTML Boilerplate html
+IntelliJ IDEA Key Bindings webstorm快捷键
+language-stylus stylus高亮
+markdownlint mark格式检查
+open in browser 在浏览器打开
+path intellisense 显示路径
+vetur vue插件
+vscode-icons vscode图标
+```
+
+vscode配置
+
+```json
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Comic Sans MS",
+  "editor.fontWeight": "bold",
+  "vsicons.dontShowNewVersionMessage": true,
+  "terminal.integrated.fontFamily": "Consolas",
+  "terminal.integrated.fontSize": 16,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorCustomizations":{
+    "tab.activeBackground": "#000000",
+    "activityBar.background": "#1c1d21",
+    "editorGroup.background": "#1c1d21",
+    "sideBar.background": "#1c1d21"
+  },
+  "files.autoSave": "off",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "An Old Hope Classic",
+  "markdown.preview.scrollEditorWithPreview": true
+}
+```
+
+> markdown实时预览
+
+```js
+Ctrl + Shift + P 调出主命令框，输入 Markdown
+```
+
+或者右上角最左边有实时预览功能
+
+[↑ 返回Top](#mywork)
 
 ## 移动端配适
 
@@ -77,7 +131,7 @@ h1,h2,h3,h4,h5,h6 {
 q:before,q:after {
   content:'';
 }
-abbr,acronym { 
+abbr,acronym {
   border: 0;
 }
 
@@ -204,5 +258,3 @@ a:hover { text-decoration: underline; }
 ```
 
 [↑ 返回Top](#mywork)
-
-## sd
