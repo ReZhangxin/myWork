@@ -10,6 +10,31 @@
 
 > 遵循准确地描述出该变量所代表的事物
 
+### 商城用到的单词
+
+```js
+店铺搜索屏蔽 ban the shop from the search engine
+差评 negative comment/feedback
+网上评价 internet review
+评分 rating
+包裹 parcel
+详的 ominous
+网名 online moniker
+网上纠纷 online dispute
+网上评价系统 online rating system
+免邮费/包邮 exemption from postage
+退款 refund
+恶性骚扰 malicious harassment
+网店 online shop
+信誉 credit
+网购 online shopping
+单日交易额 daily business transaction
+上架新品 new product display
+品质保证 quality guarantee
+客服人员 service personnel
+产品描述 product description
+```
+
 ## github
 
 ### 第一步配置全局用户名
