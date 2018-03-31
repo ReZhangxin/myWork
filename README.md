@@ -1,9 +1,14 @@
 # myWork
 
+- [变量的命名](#变量的命名)
 - [vscode](#vscode)
 - [github](#github)
 - [移动端配适](#移动端配适)
 - [初始化样式](#初始化样式)
+
+## 变量的命名
+
+> 遵循准确地描述出该变量所代表的事物
 
 ## github
 
@@ -47,10 +52,9 @@ HTML Boilerplate html
 IntelliJ IDEA Key Bindings webstorm快捷键
 language-stylus stylus高亮
 markdownlint mark格式检查
-open in browser 在浏览器打开
-path intellisense 显示路径
 vetur vue插件
-vscode-icons vscode图标
+vscode-icons vscode图 标
+JS-CSS-HTML Formatter 格式化
 ```
 
 vscode配置
